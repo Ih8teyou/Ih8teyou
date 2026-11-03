@@ -15,7 +15,7 @@
 - 🔨 Currently building: `something you don't like`
 - 📚 Currently learning: `maintaining one Repo`
 - 💬 Ask me about: `Unity, FL Studio, Adobe `
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <!--
 **Ih8teyou/Ih8teyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
