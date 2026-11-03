@@ -1,13 +1,6 @@
-```
-┌──────────────────────────────────────────────┐
-│  NAME      :  Ih8teyou                       │
-│  CLASS     :  Developer (sort of)            │
-│  STATUS    :  online (unfortunately)         │
-│  MOOD      :  (¬_¬)                          │
-│  FEELING   :  I don't care anymore           │
-│  DEVELOPED :  One thing only                 │       
-└──────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="https://github.com/Ih8teyou/Ih8teyou/blob/main/typing.gif?raw=true" alt="Ih8teyou - Developer (sort of)" />
+</p>
 
 ## ✞ // about me
 
