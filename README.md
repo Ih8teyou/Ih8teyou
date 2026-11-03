@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/Ih8teyou/Ih8teyou/blob/main/typing.gif?raw=true" width="500" alt="Ih8teyou - Developer (sort of)" />
 </p>
 
