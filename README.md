@@ -1,5 +1,21 @@
-## Hi there 👋
+```
+┌──────────────────────────────────────────────┐
+│  NAME      :  Ih8teyou                       │
+│  CLASS     :  Developer (sort of)            │
+│  STATUS    :  online (unfortunately)         │
+│  MOOD      :  (¬_¬)                          │
+│  FEELING   :  I don't care anymore           │
+│  DEVELOPED :  One thing only                 │       
+└──────────────────────────────────────────────┘
+```
 
+## ✞ // about me
+
+- ✘  Unity Teacher. Graphic Designer. Singer.
+- 🔨 Currently building: `something you don't like`
+- 📚 Currently learning: `maintaining one Repo`
+- 💬 Ask me about: `Unity, FL Studio, Adobe `
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀
 <!--
 **Ih8teyou/Ih8teyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
